@@ -10,14 +10,14 @@ nav_order: 6
 * Graduate Level Two Teacher
   * Big Ideas in Science
 * Graduate Level One Teacher
-    * 1$^{st}$ Year Chemistry Workshops
-    * 3$^{rd}$ Year Synthetic Chemistry Labs
+    * 1st Year Chemistry Workshops
+    * 3rd Year Synthetic Chemistry Labs
 ## 2023 - 2024
 * Graduate Level One Teacher
-    * 1$^{st}$ Year Chemistry workshops
-    * 3$^{rd}$ Year Synthetic Chemistry Labs
+    * 1st Year Chemistry workshops
+    * 3rd Year Synthetic Chemistry Labs
 *  Student Mentor
    *  Foundation project - Mycelium based composite materials
 ## 2022 - 2023
 * Graduate Level One Teacher 
-    * 3$^{rd}$ Year Synthetic Chemistry Labs 
+    * 3rd$ Year Synthetic Chemistry Labs 
