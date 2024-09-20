@@ -16,9 +16,9 @@ of Energetic Materials (NTREM) conference in Pardubice, where I met leaders in t
 
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/8.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
+        {% include figure.liquid loading="eager" path="assets/img/NTREM2024.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
     </div>
 </div>
 <div class="caption">
-    YBCO 123 prepared using waste plastic as a template.
+    Group photo taken on the last day of the conference.
 </div>
